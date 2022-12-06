@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakpoints>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/xtomes07/hello.c" type="1"/>
+<marker lineNumber="72" type="com.ti.ccstudio.debug.CCSBreakpointMarker">
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.symbolName" value="C$RL7"/>
+<attrib name="org.eclipse.debug.core.id" value="com.ti.ccstudio.debug.debugModel"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.type" value="2"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.filePath" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\hello.c"/>
+<attrib name="location" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\hello.c"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.addressPage" value="0"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.address" value="11900"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.addressBitSize" value="32"/>
+<attrib name="message" value="hello.c, line 72 (C$RL7)  [S/W BP]"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.threadname" value="C6416 Device Cycle Accurate Simulator, Little Endian_0/TMS320C6416"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.serialData" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot; ?&gt;&#x0A;&lt;breakpoints xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:noNamespaceSchemaLocation=&quot;breakpoints.xsd&quot;&gt;&#x0A;&#x0A;  &lt;breakpoint type=&quot;Software&quot;&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Hardware Configuration&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Location&lt;/name&gt;&#x0A;        &lt;location&gt;&#x0A;          &lt;source&gt;&#x0A;            &lt;symbol_file&gt;C:/Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\Simulator\xtomes07.out&lt;/symbol_file&gt;&#x0A;            &lt;filename&gt;C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\Simulator/../hello.c&lt;/filename&gt;&#x0A;            &lt;line&gt;72&lt;/line&gt;&#x0A;          &lt;/source&gt;&#x0A;          &lt;page&gt;0&lt;/page&gt;&#x0A;        &lt;/location&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Debugger Response&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Condition&lt;/name&gt;&#x0A;        &lt;string&gt;&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Skip Count&lt;/name&gt;&#x0A;        &lt;integer&gt;0&lt;/integer&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;Current Count&lt;/name&gt;&#x0A;          &lt;integer&gt;0&lt;/integer&gt;&#x0A;        &lt;/property&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Action&lt;/name&gt;&#x0A;        &lt;string&gt;Update View&lt;/string&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;View&lt;/name&gt;&#x0A;          &lt;string&gt;Single Time -0&lt;/string&gt;&#x0A;        &lt;/property&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Miscellaneous&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Group&lt;/name&gt;&#x0A;        &lt;string&gt;Default Group&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Name&lt;/name&gt;&#x0A;        &lt;string&gt;UpdateGraf&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;enabled&gt;1&lt;/enabled&gt;&#x0A;  &lt;/breakpoint&gt;&#x0A;&#x0A;&lt;/breakpoints&gt;&#x0A;"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.lineNumber" value="72"/>
+<attrib name="org.eclipse.cdt.debug.core.sourceHandle" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\hello.c"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.timeStamp" value="1670359785072"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.iconMask" value="133"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.hardware" value="false"/>
+<attrib name="org.eclipse.cdt.debug.ui.cDebug.capable_of_show_full_paths" value="true"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/xtomes07/hello.c" type="1"/>
+<marker lineNumber="79" type="com.ti.ccstudio.debug.CCSBreakpointMarker">
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.symbolName" value="C$RL10 + 0x28"/>
+<attrib name="org.eclipse.debug.core.id" value="com.ti.ccstudio.debug.debugModel"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.type" value="2"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.filePath" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\hello.c"/>
+<attrib name="location" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\hello.c"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.addressPage" value="0"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.address" value="11980"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.addressBitSize" value="32"/>
+<attrib name="message" value="hello.c, line 79 (C$RL10 + 0x28)  [S/W BP]"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.threadname" value="C6416 Device Cycle Accurate Simulator, Little Endian_0/TMS320C6416"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.serialData" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot; ?&gt;&#x0A;&lt;breakpoints xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:noNamespaceSchemaLocation=&quot;breakpoints.xsd&quot;&gt;&#x0A;&#x0A;  &lt;breakpoint type=&quot;Software&quot;&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Hardware Configuration&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Location&lt;/name&gt;&#x0A;        &lt;location&gt;&#x0A;          &lt;source&gt;&#x0A;            &lt;symbol_file&gt;C:/Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\Simulator\xtomes07.out&lt;/symbol_file&gt;&#x0A;            &lt;filename&gt;C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\Simulator/../hello.c&lt;/filename&gt;&#x0A;            &lt;line&gt;79&lt;/line&gt;&#x0A;          &lt;/source&gt;&#x0A;          &lt;page&gt;0&lt;/page&gt;&#x0A;        &lt;/location&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Debugger Response&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Condition&lt;/name&gt;&#x0A;        &lt;string&gt;&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Skip Count&lt;/name&gt;&#x0A;        &lt;integer&gt;0&lt;/integer&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;Current Count&lt;/name&gt;&#x0A;          &lt;integer&gt;0&lt;/integer&gt;&#x0A;        &lt;/property&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Action&lt;/name&gt;&#x0A;        &lt;string&gt;Write Data to File&lt;/string&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;File&lt;/name&gt;&#x0A;          &lt;file&gt;C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\output&lt;/file&gt;&#x0A;        &lt;/property&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;Format&lt;/name&gt;&#x0A;          &lt;string&gt;Hex&lt;/string&gt;&#x0A;        &lt;/property&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;Start Address&lt;/name&gt;&#x0A;          &lt;string&gt;&amp;amp;output&lt;/string&gt;&#x0A;        &lt;/property&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;Length&lt;/name&gt;&#x0A;          &lt;string&gt;1&lt;/string&gt;&#x0A;        &lt;/property&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Miscellaneous&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Group&lt;/name&gt;&#x0A;        &lt;string&gt;Default Group&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Name&lt;/name&gt;&#x0A;        &lt;string&gt;WriteDataToFile&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;enabled&gt;1&lt;/enabled&gt;&#x0A;  &lt;/breakpoint&gt;&#x0A;&#x0A;&lt;/breakpoints&gt;&#x0A;"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.lineNumber" value="79"/>
+<attrib name="org.eclipse.cdt.debug.core.sourceHandle" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\hello.c"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.timeStamp" value="1670359384477"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.iconMask" value="133"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.hardware" value="false"/>
+<attrib name="org.eclipse.cdt.debug.ui.cDebug.capable_of_show_full_paths" value="true"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/xtomes07/pseudoRandomNumber.c" type="1"/>
+<marker lineNumber="29" type="com.ti.ccstudio.debug.CCSBreakpointMarker">
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.symbolName" value="C$RL1 + 0x4"/>
+<attrib name="org.eclipse.debug.core.id" value="com.ti.ccstudio.debug.debugModel"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.filePath" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\pseudoRandomNumber.c"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.type" value="2"/>
+<attrib name="location" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\pseudoRandomNumber.c"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.addressPage" value="0"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.address" value="34352"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.addressBitSize" value="32"/>
+<attrib name="message" value="pseudoRandomNumber.c, line 29 (C$RL1 + 0x4)  [S/W BP - disabled]"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.serialData" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot; ?&gt;&#x0A;&lt;breakpoints xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:noNamespaceSchemaLocation=&quot;breakpoints.xsd&quot;&gt;&#x0A;&#x0A;  &lt;breakpoint type=&quot;Software&quot;&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Hardware Configuration&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Location&lt;/name&gt;&#x0A;        &lt;location&gt;&#x0A;          &lt;source&gt;&#x0A;            &lt;symbol_file&gt;C:/Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\Simulator\xtomes07.out&lt;/symbol_file&gt;&#x0A;            &lt;filename&gt;C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\Simulator/../pseudoRandomNumber.c&lt;/filename&gt;&#x0A;            &lt;line&gt;29&lt;/line&gt;&#x0A;          &lt;/source&gt;&#x0A;          &lt;page&gt;0&lt;/page&gt;&#x0A;        &lt;/location&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Debugger Response&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Condition&lt;/name&gt;&#x0A;        &lt;string&gt;&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Skip Count&lt;/name&gt;&#x0A;        &lt;integer&gt;0&lt;/integer&gt;&#x0A;        &lt;property&gt;&#x0A;          &lt;name&gt;Current Count&lt;/name&gt;&#x0A;          &lt;integer&gt;0&lt;/integer&gt;&#x0A;        &lt;/property&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Action&lt;/name&gt;&#x0A;        &lt;string&gt;Remain Halted&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;property&gt;&#x0A;      &lt;name&gt;Miscellaneous&lt;/name&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Group&lt;/name&gt;&#x0A;        &lt;string&gt;Default Group&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;      &lt;property&gt;&#x0A;        &lt;name&gt;Name&lt;/name&gt;&#x0A;        &lt;string&gt;Breakpoint&lt;/string&gt;&#x0A;      &lt;/property&gt;&#x0A;    &lt;/property&gt;&#x0A;    &lt;enabled&gt;0&lt;/enabled&gt;&#x0A;  &lt;/breakpoint&gt;&#x0A;&#x0A;&lt;/breakpoints&gt;&#x0A;"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.threadname" value="C6416 Device Cycle Accurate Simulator, Little Endian_0/TMS320C6416"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.lineNumber" value="29"/>
+<attrib name="org.eclipse.cdt.debug.core.sourceHandle" value="C:\Users\Client\Desktop\Vysoka_skola\Ing\1. Semestr\Signalove_procesory\Cvika\doma\xtomes07\pseudoRandomNumber.c"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.timeStamp" value="1670163151311"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.iconMask" value="4"/>
+<attrib name="com.ti.ccstudio.debug.CCSBreakpointMarker.hardware" value="false"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.cdt.debug.ui.cDebug.capable_of_show_full_paths" value="true"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+</breakpoints>
