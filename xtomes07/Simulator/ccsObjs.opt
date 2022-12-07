@@ -1,1 +1,0 @@
--l"./hellocfg.cmd" "./pseudoRandomNumber.obj" "./hellocfg_c.obj" "./hellocfg.obj" "./hello.obj" "./aic23.obj" -l"libc.a" -lcsl6416.lib -ldsk6416bsl.lib 
